@@ -36,7 +36,11 @@ border: 1px solid black;
 width: auto;
 height: auto;
 text-align: center;
+display: flex;
 }
 .figureimage {
     text-align: left;
+}
+.ticket {
+    background-color: lightblue;
 }
