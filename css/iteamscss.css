@@ -11,7 +11,6 @@
     justify-content: space-between;
     color: black;
     align-items: center;
-    position: relative;
 }
 .nav {
     list-style: none;
@@ -27,4 +26,17 @@
     margin-left: auto;
     margin-right: auto;
 
+}
+.one {
+padding: 15px 15px;
+margin: 50px;
+justify-content: space-between;
+align-items: center;
+border: 1px solid black;
+width: auto;
+height: auto;
+text-align: center;
+}
+.figureimage {
+    text-align: left;
 }
